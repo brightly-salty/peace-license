@@ -87,7 +87,7 @@ limited by the following restrictions:
 
 6. Any use by a business that is privately owned and managed, and that seeks to generate profit from the labor of employees paid by salary or other wages, is not permitted under this license.
 7. You may exercise the rights granted in _License Grant_ for any purposes only if:
-   1. You do not use the Work for the purpose of inflicting Bodily Harm on human beings (subject to criminal prosecution or otherwise) outside of providing medical aid rgoing a voluntary procedure under no form of
+   1. You do not use the Work for the purpose of inflicting Bodily Harm on human beings (subject to criminal prosecution or otherwise) outside of providing medical aid or undergoing a voluntary procedure under no form of Coercion.
    2. You do not use the Work for the purpose of Surveilling or tracking individuals for financial gain.
    3. You do not use the Work in an Act of War.
    4. You do not use the Work for the purpose of supporting or profiting from an Act of War.
