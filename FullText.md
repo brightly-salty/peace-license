@@ -104,7 +104,7 @@ limited by the following restrictions:
 
 8. "Hate Speech" means communication or any formof expression which is solely for the purpose of expressing hatred for some group or advocating a form of Discrimination (to Discriminate as defined above) between humans.
 
-9. "Incarceration" means confinement in a jail, prison, or any other place where individuals of any kind are held against either their will or the will of their legal guardians.
+9. "Incarceration" means confinement in a jail, prison, or any other place where individuals of any kind are held against either their will or (if their will cannot be determined) the will of their legal guardians. In the case of a conflict between the will of the individual and the will of their legal guardian or guardians, the will of the individual will take precedence.
 
 10. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
 
