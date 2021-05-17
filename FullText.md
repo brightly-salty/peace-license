@@ -8,46 +8,6 @@ The Peace Public license is a freedom-respecting sharealike license for both the
 
 **The Work (as defined below) is provided under the terms of this Peace Public License v0.0 ("License"). The work is protected by copyright and all other applicable laws. Any use of the work other than as authorized under this license or copyright law is prohibited. By exercising any rights to the work provided in this license, you agree to be bound by the terms of this license. To the extent this license may be considered to be a contract, the licensor grants you the rights contained here in as consideration for accepting the terms and conditions of this license and for agreeing to be bound by the terms and conditions of this license.**
 
-### Definitions
-
-1. "Act of War" means any action of one country against any group either with an intention to provoke a conflict or an action that occurs during a declared war or during armed conflict between military forces of any origin. This includes but is not limited to enforcing sanctions or sieges, supplying armed forces, or profiting from the manufacture of tools or weaponry used in military conflict.
-
-2. "Adaptation" means a work based upon the Work, or upon the Work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music or other alterations of a literary or artistic work, or phonogram or performance and includes cinematographic adaptations or any other form in which the Work may be recast, transformed, or adapted including in any form recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purpose of this License. For the avoidance of doubt, where the Work is a musical work, performance or phonogram, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered an Adaptation for the purpose of this License.
-
-3. "Bodily Harm" means any physical hurt or injury to a person that interferes with the health or comfort of the person and that is more more than merely transient or trifling in nature.
-
-4. "Coercion" means leveraging of the threat of force or use of force to intimidate a person in order to gain compliance, or to offer large incentives which aim to entice a person to act against their will.
-
-5. "Collection" means a collection of literary or artistic works, such as encyclopedias and anthologies, or performances, phonograms or broadcasts, or other works or subject matter other than works listed in Definition q8 below, which, by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole. A work that constitutes a Collection will not be considered an Adaptation (as defined above) for the purposes of this License.
-
-6. "Discriminate" means the use of a work to differentiate between humans in a such a way which prioritizes some above others on the basis of percieved membership within certain groups.
-
-7. "Distribute" means to make available to the public the original and copies of the Work or Adaptation, as appropriate, through sale, gift or any other transfer of possession or ownership.
-
-8. "Hate Speech" means communication or any formof expression which is solely for the purpose of expressing hatred for some group or advocating a form of Discrimination (to Discriminate as defined above) between humans.
-
-9. "Incarceration" means confinement in a jail, prison, or any other place where individuals of any kind are held against either their will or the will of their legal guardians.
-
-10. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
-
-11. "Original Author" means, in the case of a literary or artistic work, the individual, individuals, entity or entities who created the Work or if no individual or entity can be identified, the publisher; and in addition (i) in the case of a performance the actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret or otherwise perform literary or artistic works or expressions of folklore; (ii) in the case of a phonogram the producer being the person or legal entity who first fixes the sounds of a performance or other sounds; and, (iii) in the case of broadcasts, the organization that transmits the broadcast.
-
-12. "Network Service" means the use of a piece of Software to interpret or modify information that is subsequently and directly served to users over the Internet.
-
-13. "Publicly Perform" means to perform public recitations of the Work and to communicate to the public those public recitations, by any means or process, including by wire or wireless means or public digital performances; to make available to the public Works in such a way that members of the public may access these Works from a place and at a place individually chosen by them; to perform the Work to the public by any means or process and the communication to the public of the performances of the Work, including by public digital performance; to broadcast and rebroadcast the Work by any means including signs, sounds or images.
-
-14. "Reproduce" means to make copies of the Work by any means including without limitation by sound or visual recordings and the right of fixation and reproducing fixations of the Work, including storage of a protected performance or phonogram in digital form or other electronic medium.
-
-15. "Software" means any digital Work which, through use of a third-party piece of Software or through the direct usage of itself on a computer system, the memory of the computer is modified dynamically or semi-dynamically. "Software", secondly, processes or interprets information.
-
-16. "Source Code" means the human-readable form of Software through which the Original Author and/or Distributor originally created, derived, and/or modified it.
-
-17. "Surveilling" means the use of the Work to either overtly or covertly observe and record persons and or their activities.
-
-18. "Work" means the literary and/or artistic work offered under the terms of this License including without limitation any production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression including digital form, such as a book, pamphlet and other writing; a lecture, address, sermon or other work of the same nature; a dramatic or dramatico-musical work; a choreographic work or entertainment in dumb show; a musical composition with or without words; a cinematographic work to which are assimilated works expressed by a process analogous to cinematography; a work of drawing, painting, architecture, sculpture, engraving or lithography; a photographic work to which are assimilated works expressed by a process analogous to photography; a work of applied art; an illustration, map, plan, sketch or three-dimensional work relative to geography, topography, architecture or science; a performance; a broadcast; a phonogram; a compilation of data to the extent it is protected as a copyrightable work; or a work performed by a variety or circus performer to the extent it is not otherwise considered a literary or artistic work.
-
-19. "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
-
 ## Fair Dealing Rights
 
 Nothing in this License is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.
@@ -115,7 +75,7 @@ limited by the following restrictions:
 
 ## Termination
 
-1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or Collections from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. _Definitions_, _Fair Dealing Rights_, _Representations, Warranties, and Disclaimer_, _Limitation on Liability_, _Termination_, and _Revised License Versions_ will survive any termination of this License.
+1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Adaptations or Collections from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. _Fair Dealing Rights_, _Representations, Warranties, and Disclaimer_, _Limitation on Liability_, _Termination_, _Revised License Versions_, and _Definitions_ will survive any termination of this License.
 
 2. Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
 
@@ -125,6 +85,46 @@ limited by the following restrictions:
 2. Unless otherwise specified like in _Revised License Versions 3_ The Licensor has only granted this current version of This License for The Work. In this case future revisions do not apply.
 3. The Licensor may specify that the latest available revision of This License be used for The Work by either explicitly writing so or by suffixing the License URI with a "+" symbol.
 4. The Licensor may specify that The Work is also available under the terms of This License's current revision as well as specific future revisions. The Licensor may do this by writing it explicitly or suffixing the License URI with any additional version numbers each separated by a comma.
+
+### Definitions
+
+1. "Act of War" means any action of one country against any group either with an intention to provoke a conflict or an action that occurs during a declared war or during armed conflict between military forces of any origin. This includes but is not limited to enforcing sanctions or sieges, supplying armed forces, or profiting from the manufacture of tools or weaponry used in military conflict.
+
+2. "Adaptation" means a work based upon the Work, or upon the Work and other pre-existing works, such as a translation, adaptation, derivative work, arrangement of music or other alterations of a literary or artistic work, or phonogram or performance and includes cinematographic adaptations or any other form in which the Work may be recast, transformed, or adapted including in any form recognizably derived from the original, except that a work that constitutes a Collection will not be considered an Adaptation for the purpose of this License. For the avoidance of doubt, where the Work is a musical work, performance or phonogram, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered an Adaptation for the purpose of this License.
+
+3. "Bodily Harm" means any physical hurt or injury to a person that interferes with the health or comfort of the person and that is more more than merely transient or trifling in nature.
+
+4. "Coercion" means leveraging of the threat of force or use of force to intimidate a person in order to gain compliance, or to offer large incentives which aim to entice a person to act against their will.
+
+5. "Collection" means a collection of literary or artistic works, such as encyclopedias and anthologies, or performances, phonograms or broadcasts, or other works or subject matter other than works listed in Definition q8 below, which, by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole. A work that constitutes a Collection will not be considered an Adaptation (as defined above) for the purposes of this License.
+
+6. "Discriminate" means the use of a work to differentiate between humans in a such a way which prioritizes some above others on the basis of percieved membership within certain groups.
+
+7. "Distribute" means to make available to the public the original and copies of the Work or Adaptation, as appropriate, through sale, gift or any other transfer of possession or ownership.
+
+8. "Hate Speech" means communication or any formof expression which is solely for the purpose of expressing hatred for some group or advocating a form of Discrimination (to Discriminate as defined above) between humans.
+
+9. "Incarceration" means confinement in a jail, prison, or any other place where individuals of any kind are held against either their will or the will of their legal guardians.
+
+10. "Licensor" means the individual, individuals, entity or entities that offer(s) the Work under the terms of this License.
+
+11. "Original Author" means, in the case of a literary or artistic work, the individual, individuals, entity or entities who created the Work or if no individual or entity can be identified, the publisher; and in addition (i) in the case of a performance the actors, singers, musicians, dancers, and other persons who act, sing, deliver, declaim, play in, interpret or otherwise perform literary or artistic works or expressions of folklore; (ii) in the case of a phonogram the producer being the person or legal entity who first fixes the sounds of a performance or other sounds; and, (iii) in the case of broadcasts, the organization that transmits the broadcast.
+
+12. "Network Service" means the use of a piece of Software to interpret or modify information that is subsequently and directly served to users over the Internet.
+
+13. "Publicly Perform" means to perform public recitations of the Work and to communicate to the public those public recitations, by any means or process, including by wire or wireless means or public digital performances; to make available to the public Works in such a way that members of the public may access these Works from a place and at a place individually chosen by them; to perform the Work to the public by any means or process and the communication to the public of the performances of the Work, including by public digital performance; to broadcast and rebroadcast the Work by any means including signs, sounds or images.
+
+14. "Reproduce" means to make copies of the Work by any means including without limitation by sound or visual recordings and the right of fixation and reproducing fixations of the Work, including storage of a protected performance or phonogram in digital form or other electronic medium.
+
+15. "Software" means any digital Work which, through use of a third-party piece of Software or through the direct usage of itself on a computer system, the memory of the computer is modified dynamically or semi-dynamically. "Software", secondly, processes or interprets information.
+
+16. "Source Code" means the human-readable form of Software through which the Original Author and/or Distributor originally created, derived, and/or modified it.
+
+17. "Surveilling" means the use of the Work to either overtly or covertly observe and record persons and or their activities.
+
+18. "Work" means the literary and/or artistic work offered under the terms of this License including without limitation any production in the literary, scientific and artistic domain, whatever may be the mode or form of its expression including digital form, such as a book, pamphlet and other writing; a lecture, address, sermon or other work of the same nature; a dramatic or dramatico-musical work; a choreographic work or entertainment in dumb show; a musical composition with or without words; a cinematographic work to which are assimilated works expressed by a process analogous to cinematography; a work of drawing, painting, architecture, sculpture, engraving or lithography; a photographic work to which are assimilated works expressed by a process analogous to photography; a work of applied art; an illustration, map, plan, sketch or three-dimensional work relative to geography, topography, architecture or science; a performance; a broadcast; a phonogram; a compilation of data to the extent it is protected as a copyrightable work; or a work performed by a variety or circus performer to the extent it is not otherwise considered a literary or artistic work.
+
+19. "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
 
 ## Miscellaneous
 
